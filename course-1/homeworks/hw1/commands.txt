@@ -1,0 +1,42 @@
+=== НАСТРОЙКА GIT ===
+git config --global user.name "Ваше Имя"
+git config --global user.email "your.email@example.com"
+git config --list
+
+=== СОЗДАНИЕ РЕПОЗИТОРИЯ ===
+git init
+git clone <url-репозитория>
+
+=== ОСНОВНЫЕ КОМАНДЫ ===
+git status
+git add <имя_файла>
+git add .
+git commit -m "Сообщение коммита"
+git log
+git log --oneline
+
+=== РАБОТА С ВЕТКАМИ ===
+git branch
+git branch <имя_ветки>
+git checkout <имя_ветки>
+git checkout -b <имя_ветки>
+git merge <имя_ветки>
+
+=== УДАЛЕННЫЕ РЕПОЗИТОРИИ ===
+git remote add origin <url>
+git push origin <ветка>
+git push -u origin main
+git pull origin <ветка>
+git fetch origin
+git remote -v
+
+=== ОТМЕНА ИЗМЕНЕНИЙ ===
+git checkout -- <имя_файла>
+git reset HEAD <имя_файла>
+git commit --amend
+
+=== ПОЛЕЗНЫЕ КОМАНДЫ ===
+git diff
+git diff --staged
+git stash
+git stash pop
