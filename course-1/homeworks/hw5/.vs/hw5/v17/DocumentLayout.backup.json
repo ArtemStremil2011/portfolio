@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A99FA1C-BB87-4D56-99E2-9976EC2C0C78}|hw5\\hw5.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A99FA1C-BB87-4D56-99E2-9976EC2C0C78}|hw5\\hw5.csproj|solutionrelative:hw5\\second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A99FA1C-BB87-4D56-99E2-9976EC2C0C78}|hw5\\hw5.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A99FA1C-BB87-4D56-99E2-9976EC2C0C78}|hw5\\hw5.csproj|solutionrelative:hw5\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A99FA1C-BB87-4D56-99E2-9976EC2C0C78}|hw5\\hw5.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\hw5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5A99FA1C-BB87-4D56-99E2-9976EC2C0C78}|hw5\\hw5.csproj|solutionrelative:hw5\\hw5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\second\\Program.cs",
+              "RelativeDocumentMoniker": "hw5\\second\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\second\\Program.cs",
+              "RelativeToolTip": "hw5\\second\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T19:31:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hw5",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\hw5.csproj",
+              "RelativeDocumentMoniker": "hw5\\hw5.csproj",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\hw5.csproj",
+              "RelativeToolTip": "hw5\\hw5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T17:42:19.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\first\\Program.cs",
+              "RelativeDocumentMoniker": "hw5\\first\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw5\\hw5\\first\\Program.cs",
+              "RelativeToolTip": "hw5\\first\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwDAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:41:38.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
