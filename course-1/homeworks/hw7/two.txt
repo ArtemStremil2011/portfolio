@@ -1,0 +1,66 @@
+using System;
+using System.Threading;
+using static System.Net.Mime.MediaTypeNames;
+
+//Задание 2
+//1. Создайте абстрактный класс Character
+//Содержит:
+//●	свойство Name;
+//●	абстрактный метод:
+//public abstract void Attack();
+
+//2.Создайте наследников
+//Каждый реализует метод Attack():
+//●	Warrior — "Воин атакует мечом!"
+//●	Mage — "Маг выпускает огненный шар!"
+//●	Archer — "Лучник стреляет из лука!"
+//Пример:
+//Character[] team = { new Warrior { Name = "Алекс" }, new Mage { Name = "Лия" }, new Archer { Name = "Робин" } }; foreach (var c in team) { Console.Write($"{c.Name}: "); c.Attack(); }
+
+
+namespace Lesson14
+{
+    public abstract class Character
+    {
+        public string Name { get; set; }
+        public abstract void Attack();
+
+    }
+
+    public class Warrior : Character
+    {
+        public override void Attack()
+        {
+            Console.WriteLine("Воин атакует мечом!");
+        }
+    }
+    public class Mage : Character
+    {
+        public override void Attack()
+        {
+            Console.WriteLine("Маг выпускает огненный шар!");
+        }
+    }
+    public class Archer : Character
+    {
+        public override void Attack()
+        {
+            Console.WriteLine("Лучник стреляет из лука!");
+        }
+    }
+    class Program
+    {
+        public  static void Main(string[] args)
+        {
+            Character[] team = { 
+                new Warrior { Name = "Алекс" }, 
+                new Mage { Name = "Лия" }, 
+                new Archer { Name = "Робин" } 
+            }; 
+            foreach (var c in team) 
+            {
+                Console.Write($"{c.Name}: "); c.Attack(); 
+            }
+        }
+    }
+}
