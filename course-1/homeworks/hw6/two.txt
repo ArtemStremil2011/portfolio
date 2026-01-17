@@ -1,0 +1,52 @@
+using System;
+
+namespace Lesson14
+{
+    public abstract class CookingProcess
+    {
+        public void Cooking()
+        {
+            step_one();
+            step_two();
+            step_three();
+        }
+
+        public void step_one()
+        {
+            Console.WriteLine("Подготовка ингридиентов");
+        }
+
+        public abstract void step_two(); 
+
+        public void step_three()
+        {
+            Console.WriteLine("Подача готового блюда");
+        }
+    }
+
+    public class Soup : CookingProcess
+    {
+        public override void step_two()
+        {
+            Console.WriteLine("Варится");
+        }
+    }
+
+    public class Steak : CookingProcess
+    {
+        public override void step_two()
+        {
+            Console.WriteLine("Жарится");
+        }
+    }
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Soup soup = new Soup();
+            Steak steak = new Steak();
+            soup.Cooking();
+            steak.Cooking();
+        }
+    }
+}

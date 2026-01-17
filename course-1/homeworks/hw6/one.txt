@@ -1,0 +1,43 @@
+using System;
+
+namespace Lesson14
+{
+    public abstract class Worker
+    {
+        public string Name {  get; set; }
+        public abstract void Work();
+
+        public virtual void ShowInfo()
+        {
+            Console.WriteLine($"Работник: {this.Name}");
+        }
+    }
+
+    public class Manager : Worker
+    {
+        public override void Work()
+        {
+            Console.WriteLine("Планирует задачи");
+        }
+    }
+
+    public class Developer : Worker
+    {
+        public override void Work()
+        {
+            Console.WriteLine("Пишет код");
+        }
+    }
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Worker[] workers = { new Manager { Name = "Анна" }, new Developer { Name = "Иван" } };
+            foreach (var w in workers)
+            {
+                w.ShowInfo();
+                w.Work();
+            }
+        }
+    }
+}
