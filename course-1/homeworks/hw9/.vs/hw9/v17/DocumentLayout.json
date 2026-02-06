@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E82473F-1B6C-432A-BBD6-494AFCE92E3F}|hw9\\hw9.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw9\\hw9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E82473F-1B6C-432A-BBD6-494AFCE92E3F}|hw9\\hw9.csproj|solutionrelative:hw9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E82473F-1B6C-432A-BBD6-494AFCE92E3F}|hw9\\hw9.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw9\\hw9\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E82473F-1B6C-432A-BBD6-494AFCE92E3F}|hw9\\hw9.csproj|solutionrelative:hw9\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw9\\hw9\\Book.cs",
+              "RelativeDocumentMoniker": "hw9\\Book.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw9\\hw9\\Book.cs",
+              "RelativeToolTip": "hw9\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T15:49:03.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw9\\hw9\\Program.cs",
+              "RelativeDocumentMoniker": "hw9\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw9\\hw9\\Program.cs",
+              "RelativeToolTip": "hw9\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T15:47:24.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
