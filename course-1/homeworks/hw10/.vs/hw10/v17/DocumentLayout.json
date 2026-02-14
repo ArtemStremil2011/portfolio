@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|solutionrelative:hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|solutionrelative:hw10\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|solutionrelative:hw10\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|solutionrelative:hw10\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\authors.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18C582E7-F1CC-4574-AD85-E155E4CDA526}|hw10\\hw10.csproj|solutionrelative:hw10\\authors.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\Book.cs",
+              "RelativeDocumentMoniker": "hw10\\Book.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\Book.cs",
+              "RelativeToolTip": "hw10\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:54:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\Author.cs",
+              "RelativeDocumentMoniker": "hw10\\Author.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\Author.cs",
+              "RelativeToolTip": "hw10\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:53:17.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "books.json",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\books.json",
+              "RelativeDocumentMoniker": "hw10\\books.json",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\books.json",
+              "RelativeToolTip": "hw10\\books.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-14T16:51:38.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "authors.json",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\authors.json",
+              "RelativeDocumentMoniker": "hw10\\authors.json",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\authors.json",
+              "RelativeToolTip": "hw10\\authors.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-14T16:50:38.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\Program.cs",
+              "RelativeDocumentMoniker": "hw10\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw10\\hw10\\Program.cs",
+              "RelativeToolTip": "hw10\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:45:16.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
