@@ -7,6 +7,18 @@ public class TodayCommand : ICommand
 {
     protected readonly IScheduleRepository _scheduleRepository;
 
+    // Словарь для перевода русских дней в английские
+    private readonly Dictionary<string, string> _ruToEnDays = new()
+    {
+        ["понедельник"] = "Monday",
+        ["вторник"] = "Tuesday",
+        ["среда"] = "Wednesday",
+        ["четверг"] = "Thursday",
+        ["пятница"] = "Friday",
+        ["суббота"] = "Saturday",
+        ["воскресенье"] = "Sunday"
+    };
+
     public TodayCommand(IScheduleRepository scheduleRepository)
     {
         _scheduleRepository = scheduleRepository;
@@ -43,22 +55,23 @@ public class TodayCommand : ICommand
             return;
         }
 
-        // Определяем текущий день недели на русском
-        var today = GetTodayRussian();
+        // Получаем сегодняшний день в разных форматах
+        var todayEnglish = GetTodayEnglish();
+        var todayRussian = GetTodayRussian();
 
-        var todaySchedule = group.Days
-            .FirstOrDefault(d => string.Equals(d.Day, today, StringComparison.OrdinalIgnoreCase));
+        // Ищем расписание на сегодня (пробуем разные варианты)
+        var todaySchedule = FindTodaySchedule(group, todayEnglish, todayRussian);
 
         if (todaySchedule == null)
         {
             await botClient.SendTextMessageAsync(
                 chatId,
-                $"Для группы {groupName} нет расписания на {today}.",
+                $"Для группы {groupName} нет расписания на {todayRussian}.",
                 cancellationToken: ct);
             return;
         }
 
-        var lines = new List<string> { $"Расписание для {groupName} на {today}:" };
+        var lines = new List<string> { $"Расписание для {groupName} на {todayRussian}:" };
 
         if (todaySchedule.Lessons == null || todaySchedule.Lessons.Count == 0)
         {
@@ -67,7 +80,7 @@ public class TodayCommand : ICommand
         else
         {
             lines.AddRange(
-                todaySchedule.Lessons.Select(
+                todaySchedule.Lessons.OrderBy(l => l.Time).Select(
                     (l, i) => $" {i + 1}. {l.Time} -- {l.Subject} {(string.IsNullOrEmpty(l.Teacher) ? "" : "(" + l.Teacher + ")")}"
                 )
             );
@@ -76,20 +89,50 @@ public class TodayCommand : ICommand
         await botClient.SendTextMessageAsync(chatId, string.Join('\n', lines), cancellationToken: ct);
     }
 
+    private DaySchedule? FindTodaySchedule(GroupSchedule group, string todayEnglish, string todayRussian)
+    {
+        // Сначала ищем точное совпадение с английским названием
+        var schedule = group.Days.FirstOrDefault(d =>
+            string.Equals(d.Day, todayEnglish, StringComparison.OrdinalIgnoreCase));
+
+        if (schedule != null) return schedule;
+
+        // Пробуем найти по русскому названию
+        schedule = group.Days.FirstOrDefault(d =>
+            string.Equals(d.Day, todayRussian, StringComparison.OrdinalIgnoreCase));
+
+        if (schedule != null) return schedule;
+
+        // Пробуем найти через словарь (если в JSON русское название, но в другом падеже)
+        if (_ruToEnDays.TryGetValue(todayRussian.ToLower(), out string? englishDay))
+        {
+            schedule = group.Days.FirstOrDefault(d =>
+                string.Equals(d.Day, englishDay, StringComparison.OrdinalIgnoreCase));
+        }
+
+        return schedule;
+    }
+
+    private string GetTodayEnglish()
+    {
+        var today = DateTime.Now.DayOfWeek;
+        return today.ToString();
+    }
+
     private string GetTodayRussian()
     {
         var today = DateTime.Now.DayOfWeek;
 
         return today switch
         {
-            DayOfWeek.Monday => "Monday",
-            DayOfWeek.Tuesday => "Tuesday",
-            DayOfWeek.Wednesday => "Wednesday",
-            DayOfWeek.Thursday => "Thursday",
-            DayOfWeek.Friday => "Friday",
-            DayOfWeek.Saturday => "Saturday",
-            DayOfWeek.Sunday => "Sunday",
-            _ => "Monday"
+            DayOfWeek.Monday => "Понедельник",
+            DayOfWeek.Tuesday => "Вторник",
+            DayOfWeek.Wednesday => "Среда",
+            DayOfWeek.Thursday => "Четверг",
+            DayOfWeek.Friday => "Пятница",
+            DayOfWeek.Saturday => "Суббота",
+            DayOfWeek.Sunday => "Воскресенье",
+            _ => "Понедельник"
         };
     }
 }

@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\commands\\todaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\commands\\todaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\commands\\addschedulecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\commands\\addschedulecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\repositories\\jsonschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\repositories\\jsonschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\repositories\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\repositories\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\models\\schedulefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\models\\schedulefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\models\\groupschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\models\\groupschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\models\\dayschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\models\\dayschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\commands\\weekcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\commands\\weekcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\practices\\telegrambot\\telegrambot\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75663BC8-B034-4383-884E-162F32F07A49}|TelegramBot\\TelegramBot.csproj|solutionrelative:telegrambot\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +62,177 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddScheduleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\AddScheduleCommand.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Commands\\AddScheduleCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\AddScheduleCommand.cs",
+              "RelativeToolTip": "TelegramBot\\Commands\\AddScheduleCommand.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:38:37.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleFile.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Models\\ScheduleFile.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Models\\ScheduleFile.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Models\\ScheduleFile.cs",
+              "RelativeToolTip": "TelegramBot\\Models\\ScheduleFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:37:01.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Models\\GroupSchedule.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Models\\GroupSchedule.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Models\\GroupSchedule.cs",
+              "RelativeToolTip": "TelegramBot\\Models\\GroupSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:51.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DaySchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Models\\DaySchedule.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Models\\DaySchedule.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Models\\DaySchedule.cs",
+              "RelativeToolTip": "TelegramBot\\Models\\DaySchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:46.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Interfaces\\ICommand.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Interfaces\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Interfaces\\ICommand.cs",
+              "RelativeToolTip": "TelegramBot\\Interfaces\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:44.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\TodayCommand.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Commands\\TodayCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\TodayCommand.cs",
+              "RelativeToolTip": "TelegramBot\\Commands\\TodayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:32.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\StartCommand.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Commands\\StartCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\StartCommand.cs",
+              "RelativeToolTip": "TelegramBot\\Commands\\StartCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:26.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HelpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\HelpCommand.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Commands\\HelpCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\HelpCommand.cs",
+              "RelativeToolTip": "TelegramBot\\Commands\\HelpCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:19.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Repositories\\IScheduleRepository.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Repositories\\IScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Repositories\\IScheduleRepository.cs",
+              "RelativeToolTip": "TelegramBot\\Repositories\\IScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:31:10.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Repositories\\JsonScheduleRepository.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Repositories\\JsonScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Repositories\\JsonScheduleRepository.cs",
+              "RelativeToolTip": "TelegramBot\\Repositories\\JsonScheduleRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:31:04.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Models\\Lesson.cs",
+              "RelativeToolTip": "TelegramBot\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:31:02.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeekCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\WeekCommand.cs",
+              "RelativeDocumentMoniker": "TelegramBot\\Commands\\WeekCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Commands\\WeekCommand.cs",
+              "RelativeToolTip": "TelegramBot\\Commands\\WeekCommand.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:23:23.355Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Program.cs",
               "RelativeDocumentMoniker": "TelegramBot\\Program.cs",
               "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\practices\\TelegramBot\\TelegramBot\\Program.cs",
               "RelativeToolTip": "TelegramBot\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T18:35:33.472Z",
               "EditorCaption": ""

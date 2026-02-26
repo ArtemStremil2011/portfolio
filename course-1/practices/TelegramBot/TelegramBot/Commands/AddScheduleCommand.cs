@@ -9,6 +9,25 @@ public class AddScheduleCommand : ICommand
 {
     protected readonly IScheduleRepository _scheduleRepository;
 
+    // Словарь для нормализации дней (русские и английские варианты -> английский формат)
+    private readonly Dictionary<string, string> _normalizedDays = new(StringComparer.OrdinalIgnoreCase)
+    {
+        ["понедельник"] = "Monday",
+        ["вторник"] = "Tuesday",
+        ["среда"] = "Wednesday",
+        ["четверг"] = "Thursday",
+        ["пятница"] = "Friday",
+        ["суббота"] = "Saturday",
+        ["воскресенье"] = "Sunday",
+        ["monday"] = "Monday",
+        ["tuesday"] = "Tuesday",
+        ["wednesday"] = "Wednesday",
+        ["thursday"] = "Thursday",
+        ["friday"] = "Friday",
+        ["saturday"] = "Saturday",
+        ["sunday"] = "Sunday"
+    };
+
     public AddScheduleCommand(IScheduleRepository scheduleRepository)
     {
         _scheduleRepository = scheduleRepository;
@@ -50,6 +69,22 @@ public class AddScheduleCommand : ICommand
             var time = parts[3];
             var subject = parts[4];
             var teacher = parts.Length > 5 ? string.Join(' ', parts.Skip(5)) : "";
+
+            // Нормализуем день (приводим к английскому формату)
+            if (_normalizedDays.TryGetValue(day, out string? normalizedDay))
+            {
+                day = normalizedDay;
+            }
+            else
+            {
+                await botClient.SendTextMessageAsync(
+                    chatId,
+                    $"❌ Неправильный формат дня. Используйте:\n" +
+                    "Понедельник, Вторник, Среда, Четверг, Пятница\n" +
+                    "(можно по-русски или по-английски)",
+                    cancellationToken: ct);
+                return;
+            }
 
             var schedule = _scheduleRepository.Load();
 
