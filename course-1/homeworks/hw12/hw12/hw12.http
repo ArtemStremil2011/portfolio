@@ -1,0 +1,6 @@
+@hw12_HostAddress = http://localhost:5085
+
+GET {{hw12_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
