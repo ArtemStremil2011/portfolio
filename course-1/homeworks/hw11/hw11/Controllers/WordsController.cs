@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -22,17 +21,39 @@ public class WordsController : ControllerBase
         return words;
     }
 
-    [HttpPost]
-    public List<string> AddWord(string world)
+    [HttpGet("item")] // GET: api/words/item?index=3
+    public string GetByIndex([FromQuery] int index)
     {
-        words.Add(world);
+        if (index < 0 || index >= words.Count)
+            return "Index out of range";
+
+        return words[index];
+    }
+
+    [HttpPost]
+    public List<string> AddWord([FromQuery] string word)
+    {
+        words.Add(word);
         return words;
     }
 
     [HttpDelete]
-    public List<string> DeleteWord(int index)
+    public List<string> DeleteWord([FromQuery] int index)
     {
+        if (index < 0 || index >= words.Count)
+            return words;
+
         words.RemoveAt(index);
+        return words;
+    }
+
+    [HttpPut]
+    public List<string> EditWord([FromQuery] int index, [FromQuery] string new_word)
+    {
+        if (index < 0 || index >= words.Count)
+            return words;
+
+        words[index] = new_word;
         return words;
     }
 }
