@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|solutionrelative:hw12\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\dto\\registercustomerdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|solutionrelative:hw12\\dto\\registercustomerdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\dto\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|solutionrelative:hw12\\dto\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\dto\\customerpublicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|solutionrelative:hw12\\dto\\customerpublicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|solutionrelative:hw12\\dto\\customerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\dto\\registercustomerdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|solutionrelative:hw12\\dto\\registercustomerdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|solutionrelative:hw12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\dto\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74BF310-B9C0-41DC-B7C4-3CBF2C2A762C}|hw12\\hw12.csproj|solutionrelative:hw12\\dto\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\Program.cs",
               "RelativeDocumentMoniker": "hw12\\Program.cs",
@@ -60,14 +60,14 @@
               "RelativeDocumentMoniker": "hw12\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "hw12\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwLwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T17:08:55.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CustomerPublicDto.cs",
               "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\DTO\\CustomerPublicDto.cs",
               "RelativeDocumentMoniker": "hw12\\DTO\\CustomerPublicDto.cs",
@@ -75,12 +75,11 @@
               "RelativeToolTip": "hw12\\DTO\\CustomerPublicDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T17:07:57.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T17:07:57.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CustomerProfileDto.cs",
               "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\DTO\\CustomerProfileDto.cs",
               "RelativeDocumentMoniker": "hw12\\DTO\\CustomerProfileDto.cs",
@@ -92,27 +91,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RegisterCustomerDto .cs",
               "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\DTO\\RegisterCustomerDto .cs",
               "RelativeDocumentMoniker": "hw12\\DTO\\RegisterCustomerDto .cs",
               "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\DTO\\RegisterCustomerDto .cs",
               "RelativeToolTip": "hw12\\DTO\\RegisterCustomerDto .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T17:06:15.201Z"
+              "WhenOpened": "2026-03-07T17:06:15.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\DTO\\Customer.cs",
               "RelativeDocumentMoniker": "hw12\\DTO\\Customer.cs",
               "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\homeworks\\hw12\\hw12\\DTO\\Customer.cs",
               "RelativeToolTip": "hw12\\DTO\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA+wBAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T17:05:43.952Z"
+              "WhenOpened": "2026-03-07T17:05:43.952Z",
+              "EditorCaption": ""
             }
           ]
         }
