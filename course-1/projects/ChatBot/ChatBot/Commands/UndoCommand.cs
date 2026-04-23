@@ -23,12 +23,10 @@ namespace ChatBot.Commands
         {
             _logger.LogInformation("Команда /undo выполнена для чата {ChatId}", chatId);
 
-            // Сначала удаляем ответ ассистента (последнее сообщение)
             var removedAssistant = await _chatModelRepository.RemoveLastMessageAsync(chatId);
 
             if (removedAssistant)
             {
-                // Потом удаляем сообщение пользователя
                 await _chatModelRepository.RemoveLastMessageAsync(chatId);
                 await bot.SendTextMessageAsync(chatId, "Последний обмен сообщениями удалён.");
             }

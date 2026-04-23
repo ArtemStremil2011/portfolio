@@ -14,7 +14,6 @@ namespace ChatBot.Commands
         private readonly IChatModelRepository _chatModelRepository;
         private readonly ILogger<TelegramUpdateProcessor> _logger;
 
-
         public TelegramUpdateProcessor(
             IEnumerable<IBotCommand> commands,
             ITelegramBotClient botClient,
@@ -54,15 +53,12 @@ namespace ChatBot.Commands
                 }
             }
 
-            //добавили сохранение сообщения от пользователя в историю
             await _chatModelRepository.AddMessageAsync(chatId, new OpenApiResponse.Message { Role = "user", Content = text });
             var history = await _chatModelRepository.GetHistoryAsync(chatId);
             try
             {
-                //добавили передачу истории в Chat API, чтобы он мог учитывать предыдущие сообщения при формировании ответа
                 var result = await _chatClient.SendMessageAsync(text, history);
                 _logger.LogInformation($"ПОлучен ответ {result}");
-                //добавили сохранение ответа от Chat API в историю
                 await _chatModelRepository.AddMessageAsync(chatId, new OpenApiResponse.Message { Role = "assistant", Content = result });
 
                 await _botClient.SendTextMessageAsync(chatId, result);
@@ -72,7 +68,6 @@ namespace ChatBot.Commands
                 _logger.LogError(ex, "Ошибка при вызове Chat API");
                 await _botClient.SendTextMessageAsync(chatId, "Ошибка при вызове Chat API: " + ex.Message);
             }
-
         }
     }
 }

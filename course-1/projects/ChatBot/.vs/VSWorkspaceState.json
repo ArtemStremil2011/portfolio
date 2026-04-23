@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChatBot",
+    "\\ChatBot\\Commands",
+    "\\ChatBot\\Controllers",
+    "\\ChatBot\\DTO",
+    "\\ChatBot\\Repositories",
+    "\\ChatBot\\Repositories\\Implementations",
+    "\\ChatBot\\Repositories\\Interfaces",
+    "\\ChatBot\\Repositories\\Models",
+    "\\ChatBot\\Settings"
+  ],
+  "SelectedNode": "\\ChatBot\\Commands\\TelegramUpdateProcessor.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -18,10 +18,8 @@ namespace ChatBot.Repositories.Implementations
             _chatSettings = chatOptions.Value;
             _httpClient = httpClient;
 
-            // Устанавливаем базовый URL
             _httpClient.BaseAddress = new Uri(_chatSettings.BaseUrl);
 
-            // Авторизация
             _httpClient.DefaultRequestHeaders.Authorization =
                 new AuthenticationHeaderValue("Bearer", _chatSettings.ApiKey);
         }
