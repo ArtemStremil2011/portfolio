@@ -11,6 +11,6 @@
     "\\ChatBot\\Repositories\\Models",
     "\\ChatBot\\Settings"
   ],
-  "SelectedNode": "\\ChatBot\\Commands\\TelegramUpdateProcessor.cs",
+  "SelectedNode": "\\ChatBot\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

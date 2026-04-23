@@ -1,118 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\",
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\SystemCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\SystemCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\HelpCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\HelpCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\SummarizeCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\SummarizeCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\systemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\systemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\UndoCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\UndoCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\modelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\modelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\StatsCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\StatsCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\settings\\telegramsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\settings\\telegramsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\settings\\chatapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\settings\\chatapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\TelegramUpdateProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\TelegramUpdateProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\repositories\\models\\openapiresponse..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\models\\openapiresponse..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\repositories\\models\\openapirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\models\\openapirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Settings\\TelegramSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Settings\\TelegramSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\repositories\\interfaces\\ichatmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\interfaces\\ichatmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Settings\\ChatApiSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Settings\\ChatApiSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\repositories\\interfaces\\ichatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\interfaces\\ichatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiResponse..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Repositories\\Models\\OpenApiResponse..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\repositories\\implementations\\httpchatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\implementations\\httpchatapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Repositories\\Models\\OpenApiRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\repositories\\implementations\\chatmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\repositories\\implementations\\chatmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\dto\\telegramupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\dto\\telegramupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\dto\\telegrammessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\dto\\telegrammessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\dto\\telegramchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\dto\\telegramchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\dto\\chatstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\dto\\chatstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\DTO\\TelegramUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\DTO\\TelegramMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\controllers\\chattestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\controllers\\chattestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramChat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\DTO\\TelegramChat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\undocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\undocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\ChatStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\DTO\\ChatStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\telegramupdateprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\telegramupdateprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Controllers\\UpdateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Controllers\\UpdateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\summarizecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\summarizecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Controllers\\ChatTestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Controllers\\ChatTestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\statscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\statscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\StartCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\StartCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\ModelCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\ModelCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\ibotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\ibotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\IBotCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\IBotCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\commands\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\commands\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\ClearCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\Commands\\ClearCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\chatbot\\chatbot\\chatbot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{65261AE7-F6F1-4004-8640-FF69B2069319}|ChatBot\\ChatBot.csproj|solutionrelative:chatbot\\chatbot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\ChatBot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatBot\\ChatBot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,276 +130,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\README.md",
-              "RelativeDocumentMoniker": "ChatBot\\README.md",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\README.md",
-              "RelativeToolTip": "ChatBot\\README.md",
-              "ViewState": "AgIAACEAAAAAAAAAAAAkwGsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-22T18:41:00.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SystemCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\SystemCommand.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Commands\\SystemCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\SystemCommand.cs",
-              "RelativeToolTip": "ChatBot\\Commands\\SystemCommand.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:54:36.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OpenApiRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
-              "RelativeToolTip": "ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T20:24:30.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OpenApiResponse..cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiResponse..cs",
-              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Models\\OpenApiResponse..cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiResponse..cs",
-              "RelativeToolTip": "ChatBot\\Repositories\\Models\\OpenApiResponse..cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T20:24:42.681Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ChatApiSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Settings\\ChatApiSettings.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Settings\\ChatApiSettings.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Settings\\ChatApiSettings.cs",
-              "RelativeToolTip": "ChatBot\\Settings\\ChatApiSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T09:22:24.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TelegramSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Settings\\TelegramSettings.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Settings\\TelegramSettings.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Settings\\TelegramSettings.cs",
-              "RelativeToolTip": "ChatBot\\Settings\\TelegramSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T13:11:29.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Program.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Program.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Program.cs",
-              "RelativeToolTip": "ChatBot\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAcwC4AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:52:14.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HelpCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\HelpCommand.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Commands\\HelpCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\HelpCommand.cs",
-              "RelativeToolTip": "ChatBot\\Commands\\HelpCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T20:21:40.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IChatModelRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
-              "RelativeToolTip": "ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T20:24:18.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ModelCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\ModelCommand.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Commands\\ModelCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\ModelCommand.cs",
-              "RelativeToolTip": "ChatBot\\Commands\\ModelCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:30:11.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IChatApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
-              "RelativeToolTip": "ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T13:14:43.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HttpChatApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
-              "RelativeToolTip": "ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T13:14:19.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ChatModelRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
-              "RelativeToolTip": "ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAIwFsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T13:15:20.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TelegramUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\DTO\\TelegramUpdate.cs",
-              "RelativeDocumentMoniker": "ChatBot\\DTO\\TelegramUpdate.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\DTO\\TelegramUpdate.cs",
-              "RelativeToolTip": "ChatBot\\DTO\\TelegramUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T14:05:33.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TelegramMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\DTO\\TelegramMessage.cs",
-              "RelativeDocumentMoniker": "ChatBot\\DTO\\TelegramMessage.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\DTO\\TelegramMessage.cs",
-              "RelativeToolTip": "ChatBot\\DTO\\TelegramMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T14:04:22.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TelegramChat.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\DTO\\TelegramChat.cs",
-              "RelativeDocumentMoniker": "ChatBot\\DTO\\TelegramChat.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\DTO\\TelegramChat.cs",
-              "RelativeToolTip": "ChatBot\\DTO\\TelegramChat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T14:20:17.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ChatStats.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\DTO\\ChatStats.cs",
-              "RelativeDocumentMoniker": "ChatBot\\DTO\\ChatStats.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\DTO\\ChatStats.cs",
-              "RelativeToolTip": "ChatBot\\DTO\\ChatStats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T16:00:54.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UpdateController.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Controllers\\UpdateController.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Controllers\\UpdateController.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Controllers\\UpdateController.cs",
-              "RelativeToolTip": "ChatBot\\Controllers\\UpdateController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T14:00:38.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ChatTestController.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Controllers\\ChatTestController.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Controllers\\ChatTestController.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Controllers\\ChatTestController.cs",
-              "RelativeToolTip": "ChatBot\\Controllers\\ChatTestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T13:16:54.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UndoCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\UndoCommand.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Commands\\UndoCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\UndoCommand.cs",
-              "RelativeToolTip": "ChatBot\\Commands\\UndoCommand.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:15:35.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "TelegramUpdateProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\TelegramUpdateProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\TelegramUpdateProcessor.cs",
               "RelativeDocumentMoniker": "ChatBot\\Commands\\TelegramUpdateProcessor.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\TelegramUpdateProcessor.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\TelegramUpdateProcessor.cs",
               "RelativeToolTip": "ChatBot\\Commands\\TelegramUpdateProcessor.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T14:02:39.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SummarizeCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\SummarizeCommand.cs",
-              "RelativeDocumentMoniker": "ChatBot\\Commands\\SummarizeCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\SummarizeCommand.cs",
-              "RelativeToolTip": "ChatBot\\Commands\\SummarizeCommand.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwDwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:17:30.143Z"
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatBot\\appsettings.json",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\appsettings.json",
+              "RelativeToolTip": "ChatBot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T13:08:50.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 4,
               "Title": "StatsCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\StatsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\StatsCommand.cs",
               "RelativeDocumentMoniker": "ChatBot\\Commands\\StatsCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\StatsCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\StatsCommand.cs",
               "RelativeToolTip": "ChatBot\\Commands\\StatsCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +166,243 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 3,
+              "Title": "UndoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\UndoCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\UndoCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\UndoCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\UndoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:15:35.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SummarizeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\SummarizeCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\SummarizeCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\SummarizeCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\SummarizeCommand.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:17:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SystemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\SystemCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\SystemCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\SystemCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\SystemCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:54:36.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\HelpCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\HelpCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\HelpCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\HelpCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:21:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Program.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Program.cs",
+              "RelativeToolTip": "ChatBot\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:52:14.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TelegramSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Settings\\TelegramSettings.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Settings\\TelegramSettings.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Settings\\TelegramSettings.cs",
+              "RelativeToolTip": "ChatBot\\Settings\\TelegramSettings.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:11:29.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Settings\\ChatApiSettings.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Settings\\ChatApiSettings.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Settings\\ChatApiSettings.cs",
+              "RelativeToolTip": "ChatBot\\Settings\\ChatApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:22:24.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpenApiResponse..cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiResponse..cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Models\\OpenApiResponse..cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiResponse..cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Models\\OpenApiResponse..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:24:42.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OpenApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Models\\OpenApiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:24:30.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IChatModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Interfaces\\IChatModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:24:18.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IChatApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Interfaces\\IChatApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:14:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HttpChatApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Implementations\\HttpChatApiClient.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:14:19.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
+              "RelativeToolTip": "ChatBot\\Repositories\\Implementations\\ChatModelRepository.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAADIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:15:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TelegramUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramUpdate.cs",
+              "RelativeDocumentMoniker": "ChatBot\\DTO\\TelegramUpdate.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramUpdate.cs",
+              "RelativeToolTip": "ChatBot\\DTO\\TelegramUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:05:33.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TelegramMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramMessage.cs",
+              "RelativeDocumentMoniker": "ChatBot\\DTO\\TelegramMessage.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramMessage.cs",
+              "RelativeToolTip": "ChatBot\\DTO\\TelegramMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:04:22.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TelegramChat.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramChat.cs",
+              "RelativeDocumentMoniker": "ChatBot\\DTO\\TelegramChat.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\TelegramChat.cs",
+              "RelativeToolTip": "ChatBot\\DTO\\TelegramChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T14:20:17.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatStats.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\ChatStats.cs",
+              "RelativeDocumentMoniker": "ChatBot\\DTO\\ChatStats.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\DTO\\ChatStats.cs",
+              "RelativeToolTip": "ChatBot\\DTO\\ChatStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T16:00:54.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Controllers\\UpdateController.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Controllers\\UpdateController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Controllers\\UpdateController.cs",
+              "RelativeToolTip": "ChatBot\\Controllers\\UpdateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:00:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChatTestController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Controllers\\ChatTestController.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Controllers\\ChatTestController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Controllers\\ChatTestController.cs",
+              "RelativeToolTip": "ChatBot\\Controllers\\ChatTestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:16:54.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "StartCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\StartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\StartCommand.cs",
               "RelativeDocumentMoniker": "ChatBot\\Commands\\StartCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\StartCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\StartCommand.cs",
               "RelativeToolTip": "ChatBot\\Commands\\StartCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +410,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\ModelCommand.cs",
+              "RelativeDocumentMoniker": "ChatBot\\Commands\\ModelCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\ModelCommand.cs",
+              "RelativeToolTip": "ChatBot\\Commands\\ModelCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:30:11.78Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 24,
               "Title": "IBotCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\IBotCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\IBotCommand.cs",
               "RelativeDocumentMoniker": "ChatBot\\Commands\\IBotCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\IBotCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\IBotCommand.cs",
               "RelativeToolTip": "ChatBot\\Commands\\IBotCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -433,9 +436,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "ClearCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\ClearCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\ClearCommand.cs",
               "RelativeDocumentMoniker": "ChatBot\\Commands\\ClearCommand.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\Commands\\ClearCommand.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\Commands\\ClearCommand.cs",
               "RelativeToolTip": "ChatBot\\Commands\\ClearCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,27 +446,27 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\README.md",
+              "RelativeDocumentMoniker": "ChatBot\\README.md",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\README.md",
+              "RelativeToolTip": "ChatBot\\README.md",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwGsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-22T18:41:00.717Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
               "Title": "ChatBot.http",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\ChatBot.http",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\ChatBot.http",
               "RelativeDocumentMoniker": "ChatBot\\ChatBot.http",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\ChatBot.http",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-1\\projects\\ChatBot\\ChatBot\\ChatBot.http",
               "RelativeToolTip": "ChatBot\\ChatBot.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-04-08T19:26:27.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\appsettings.json",
-              "RelativeDocumentMoniker": "ChatBot\\appsettings.json",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\ChatBot\\ChatBot\\appsettings.json",
-              "RelativeToolTip": "ChatBot\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-28T13:08:50.138Z"
             }
           ]
         }
