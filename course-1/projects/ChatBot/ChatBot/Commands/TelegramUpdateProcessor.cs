@@ -48,6 +48,7 @@ namespace ChatBot.Commands
                 }
                 else
                 {
+                    await _botClient.SendTextMessageAsync(chatId, "Неизвестная команда. Используйте /help");
                     return;
                 }
             }
@@ -59,10 +60,13 @@ namespace ChatBot.Commands
                 var result = await _chatClient.SendMessageAsync(text, history);
                 _logger.LogInformation($"Получен ответ {result}");
                 await _chatModelRepository.AddMessageAsync(chatId, new OpenApiResponse.Message { Role = "assistant", Content = result });
+
+                await _botClient.SendTextMessageAsync(chatId, result);
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Ошибка при вызове Chat API");
+                await _botClient.SendTextMessageAsync(chatId, "Ошибка при вызове Chat API: " + ex.Message);
             }
         }
     }
