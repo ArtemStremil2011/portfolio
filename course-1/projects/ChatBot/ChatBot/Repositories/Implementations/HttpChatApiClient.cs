@@ -18,10 +18,13 @@ namespace ChatBot.Repositories.Implementations
             _chatSettings = chatOptions.Value;
             _httpClient = httpClient;
 
-            _httpClient.BaseAddress = new Uri(_chatSettings.BaseUrl);
+            _httpClient.BaseAddress = new Uri("https://openrouter.ai/api/v1/");
 
             _httpClient.DefaultRequestHeaders.Authorization =
                 new AuthenticationHeaderValue("Bearer", _chatSettings.ApiKey);
+
+            _httpClient.DefaultRequestHeaders.Add("HTTP-Referer", "http://localhost:5000");
+            _httpClient.DefaultRequestHeaders.Add("X-Title", "Telegram Bot");
         }
 
         public async Task<string> SendMessageAsync(string userMessage, IEnumerable<OpenApiResponse.Message> history)
@@ -30,10 +33,10 @@ namespace ChatBot.Repositories.Implementations
             {
                 Model = _chatSettings.DefaultModel,
                 Messages = history.ToList(),
-                MaxTokens = 1000
+                MaxTokens = _chatSettings.MaxTokens
             };
 
-            var response = await _httpClient.PostAsJsonAsync("", payload);
+            var response = await _httpClient.PostAsJsonAsync("chat/completions", payload);
 
             response.EnsureSuccessStatusCode();
 

@@ -1,0 +1,154 @@
+2026-04-24 17:31:30.504 +03:00 [INF] Now listening on: http://localhost:5000
+2026-04-24 17:31:30.553 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-24 17:31:30.554 +03:00 [INF] Hosting environment: Development
+2026-04-24 17:31:30.556 +03:00 [INF] Content root path: C:\Users\Artem\Desktop\Programming\git\portfolio\course-1\projects\ChatBot\ChatBot
+2026-04-24 17:31:36.357 +03:00 [INF] Application is shutting down...
+2026-04-24 17:32:07.185 +03:00 [INF] Now listening on: http://localhost:5000
+2026-04-24 17:32:07.229 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-24 17:32:07.231 +03:00 [INF] Hosting environment: Development
+2026-04-24 17:32:07.232 +03:00 [INF] Content root path: C:\Users\Artem\Desktop\Programming\git\portfolio\course-1\projects\ChatBot\ChatBot
+2026-04-24 17:32:20.944 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-04-24 17:32:21.089 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 148.2365ms
+2026-04-24 17:32:21.355 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-04-24 17:32:21.474 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 119.0352ms
+2026-04-24 17:32:31.798 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/chat/test - application/json-patch+json 25
+2026-04-24 17:32:31.811 +03:00 [WRN] Failed to determine the https port for redirect.
+2026-04-24 17:32:31.817 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.ChatTestController.Test (ChatBot)'
+2026-04-24 17:32:31.851 +03:00 [INF] Route matched with {action = "Test", controller = "ChatTest"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Test(ChatBot.Controllers.ChatTestRequest) on controller ChatBot.Controllers.ChatTestController (ChatBot).
+2026-04-24 17:32:32.033 +03:00 [INF] Start processing HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-24 17:32:32.036 +03:00 [INF] Sending HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-24 17:32:42.540 +03:00 [INF] Received HTTP response headers after 10499.8736ms - 200
+2026-04-24 17:32:42.543 +03:00 [INF] End processing HTTP request after 10512.4363ms - 200
+2026-04-24 17:32:52.320 +03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-04-24 17:32:52.346 +03:00 [INF] Executed action ChatBot.Controllers.ChatTestController.Test (ChatBot) in 20489.8461ms
+2026-04-24 17:32:52.349 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.ChatTestController.Test (ChatBot)'
+2026-04-24 17:32:52.352 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/chat/test - 200 539 application/json; charset=utf-8 20553.9899ms
+2026-04-24 17:33:14.111 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/chat/history - null null
+2026-04-24 17:33:14.121 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.ChatTestController.GetHistory (ChatBot)'
+2026-04-24 17:33:14.128 +03:00 [INF] Route matched with {action = "GetHistory", controller = "ChatTest"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHistory() on controller ChatBot.Controllers.ChatTestController (ChatBot).
+2026-04-24 17:33:14.133 +03:00 [INF] Загрузка истории для чата 123456789
+2026-04-24 17:33:14.135 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ChatBot.Repositories.Models.OpenApiResponse+Message, ChatBot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-24 17:33:14.161 +03:00 [INF] Executed action ChatBot.Controllers.ChatTestController.GetHistory (ChatBot) in 30.1677ms
+2026-04-24 17:33:14.164 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.ChatTestController.GetHistory (ChatBot)'
+2026-04-24 17:33:14.166 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/chat/history - 200 2 application/json; charset=utf-8 54.4847ms
+2026-04-24 17:33:43.349 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/chat/bot - application/json-patch+json 31
+2026-04-24 17:33:43.353 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.ChatTestController.TestBot (ChatBot)'
+2026-04-24 17:33:43.359 +03:00 [INF] Route matched with {action = "TestBot", controller = "ChatTest"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] TestBot(ChatBot.Controllers.ChatTestRequest) on controller ChatBot.Controllers.ChatTestController (ChatBot).
+2026-04-24 17:33:43.369 +03:00 [INF] Получено сообдение от чата 123456789: Привет
+2026-04-24 17:33:43.375 +03:00 [INF] Сохранение сообщения от чата 123456789: user
+2026-04-24 17:33:43.378 +03:00 [INF] Загрузка истории для чата 123456789
+2026-04-24 17:33:43.379 +03:00 [INF] Start processing HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-24 17:33:43.381 +03:00 [INF] Sending HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-24 17:33:48.660 +03:00 [INF] Received HTTP response headers after 5276.6758ms - 200
+2026-04-24 17:33:48.662 +03:00 [INF] End processing HTTP request after 5282.7691ms - 200
+2026-04-24 17:33:48.672 +03:00 [INF] ПОлучен ответ Привет! Как я могу тебе помочь?
+2026-04-24 17:33:48.674 +03:00 [INF] Сохранение сообщения от чата 123456789: assistant
+2026-04-24 17:34:09.743 +03:00 [ERR] Ошибка при вызове Chat API
+Telegram.Bot.Exceptions.RequestException: Exception during making request
+ ---> System.Net.Http.HttpRequestException: Сделана попытка выполнить операцию на сокете при отключенной сети. (api.telegram.org:443)
+ ---> System.Net.Sockets.SocketException (10051): Сделана попытка выполнить операцию на сокете при отключенной сети.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Telegram.Bot.TelegramBotClient.<MakeRequestAsync>g__SendRequestAsync|21_0[TResponse](HttpClient httpClient, HttpRequestMessage httpRequest, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Telegram.Bot.TelegramBotClient.<MakeRequestAsync>g__SendRequestAsync|21_0[TResponse](HttpClient httpClient, HttpRequestMessage httpRequest, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.SendTextMessageAsync(ITelegramBotClient botClient, ChatId chatId, String text, Nullable`1 messageThreadId, Nullable`1 parseMode, IEnumerable`1 entities, Nullable`1 disableWebPagePreview, Nullable`1 disableNotification, Nullable`1 protectContent, Nullable`1 replyToMessageId, Nullable`1 allowSendingWithoutReply, IReplyMarkup replyMarkup, CancellationToken cancellationToken)
+   at ChatBot.Commands.TelegramUpdateProcessor.HandleAsync(TelegramUpdate update) in C:\Users\Artem\Desktop\Programming\git\portfolio\course-1\projects\ChatBot\ChatBot\Commands\TelegramUpdateProcessor.cs:line 64
+2026-04-24 17:34:30.849 +03:00 [INF] Executed action ChatBot.Controllers.ChatTestController.TestBot (ChatBot) in 47486.5304ms
+2026-04-24 17:34:30.852 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.ChatTestController.TestBot (ChatBot)'
+2026-04-24 17:34:30.855 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Telegram.Bot.Exceptions.RequestException: Exception during making request
+ ---> System.Net.Http.HttpRequestException: Сделана попытка выполнить операцию на сокете при отключенной сети. (api.telegram.org:443)
+ ---> System.Net.Sockets.SocketException (10051): Сделана попытка выполнить операцию на сокете при отключенной сети.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Telegram.Bot.TelegramBotClient.<MakeRequestAsync>g__SendRequestAsync|21_0[TResponse](HttpClient httpClient, HttpRequestMessage httpRequest, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Telegram.Bot.TelegramBotClient.<MakeRequestAsync>g__SendRequestAsync|21_0[TResponse](HttpClient httpClient, HttpRequestMessage httpRequest, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClient.MakeRequestAsync[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at Telegram.Bot.TelegramBotClientExtensions.SendTextMessageAsync(ITelegramBotClient botClient, ChatId chatId, String text, Nullable`1 messageThreadId, Nullable`1 parseMode, IEnumerable`1 entities, Nullable`1 disableWebPagePreview, Nullable`1 disableNotification, Nullable`1 protectContent, Nullable`1 replyToMessageId, Nullable`1 allowSendingWithoutReply, IReplyMarkup replyMarkup, CancellationToken cancellationToken)
+   at ChatBot.Commands.TelegramUpdateProcessor.HandleAsync(TelegramUpdate update) in C:\Users\Artem\Desktop\Programming\git\portfolio\course-1\projects\ChatBot\ChatBot\Commands\TelegramUpdateProcessor.cs:line 69
+   at ChatBot.Controllers.ChatTestController.TestBot(ChatTestRequest request) in C:\Users\Artem\Desktop\Programming\git\portfolio\course-1\projects\ChatBot\ChatBot\Controllers\ChatTestController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-04-24 17:34:30.888 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/chat/bot - 500 null text/plain; charset=utf-8 47538.395ms
+2026-04-24 17:44:25.316 +03:00 [INF] Now listening on: http://localhost:5000
+2026-04-24 17:44:25.357 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-24 17:44:25.358 +03:00 [INF] Hosting environment: Development
+2026-04-24 17:44:25.360 +03:00 [INF] Content root path: C:\Users\Artem\Desktop\Programming\git\portfolio\course-1\projects\ChatBot\ChatBot
+2026-04-24 17:44:35.088 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-04-24 17:44:35.160 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 73.7587ms
+2026-04-24 17:44:35.320 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-04-24 17:44:35.389 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 69.8044ms
+2026-04-24 17:44:45.211 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/chat/bot - application/json-patch+json 31
+2026-04-24 17:44:45.223 +03:00 [WRN] Failed to determine the https port for redirect.
+2026-04-24 17:44:45.229 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.ChatTestController.TestBot (ChatBot)'
+2026-04-24 17:44:45.252 +03:00 [INF] Route matched with {action = "TestBot", controller = "ChatTest"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] TestBot(ChatBot.Controllers.ChatTestRequest) on controller ChatBot.Controllers.ChatTestController (ChatBot).
+2026-04-24 17:44:45.339 +03:00 [INF] Получено сообдение от чата 123456789: Привет
+2026-04-24 17:44:45.345 +03:00 [INF] Сохранение сообщения от чата 123456789: user
+2026-04-24 17:44:45.348 +03:00 [INF] Загрузка истории для чата 123456789
+2026-04-24 17:44:45.369 +03:00 [INF] Start processing HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-24 17:44:45.373 +03:00 [INF] Sending HTTP request POST https://openrouter.ai/api/v1/chat/completions
+2026-04-24 17:44:49.890 +03:00 [INF] Received HTTP response headers after 4513.8091ms - 200
+2026-04-24 17:44:49.893 +03:00 [INF] End processing HTTP request after 4525.415ms - 200
+2026-04-24 17:44:49.917 +03:00 [INF] Получен ответ Привет! 😊 Как я могу тебе помочь?
+2026-04-24 17:44:49.919 +03:00 [INF] Сохранение сообщения от чата 123456789: assistant
+2026-04-24 17:44:49.926 +03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int64, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-04-24 17:44:49.955 +03:00 [INF] Executed action ChatBot.Controllers.ChatTestController.TestBot (ChatBot) in 4698.0696ms
+2026-04-24 17:44:49.958 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.ChatTestController.TestBot (ChatBot)'
+2026-04-24 17:44:49.961 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/chat/bot - 200 83 application/json; charset=utf-8 4750.4019ms
+2026-04-24 17:45:35.795 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/chat/history - null null
+2026-04-24 17:45:35.801 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.ChatTestController.GetHistory (ChatBot)'
+2026-04-24 17:45:35.809 +03:00 [INF] Route matched with {action = "GetHistory", controller = "ChatTest"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHistory() on controller ChatBot.Controllers.ChatTestController (ChatBot).
+2026-04-24 17:45:35.813 +03:00 [INF] Загрузка истории для чата 123456789
+2026-04-24 17:45:35.816 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ChatBot.Repositories.Models.OpenApiResponse+Message, ChatBot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-24 17:45:35.836 +03:00 [INF] Executed action ChatBot.Controllers.ChatTestController.GetHistory (ChatBot) in 23.5633ms
+2026-04-24 17:45:35.838 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.ChatTestController.GetHistory (ChatBot)'
+2026-04-24 17:45:35.840 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/chat/history - 200 136 application/json; charset=utf-8 45.5851ms
+2026-04-24 17:45:48.376 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/chat/stats - null null
+2026-04-24 17:45:48.380 +03:00 [INF] Executing endpoint 'ChatBot.Controllers.ChatTestController.GetStats (ChatBot)'
+2026-04-24 17:45:48.387 +03:00 [INF] Route matched with {action = "GetStats", controller = "ChatTest"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetStats() on controller ChatBot.Controllers.ChatTestController (ChatBot).
+2026-04-24 17:45:48.391 +03:00 [INF] Подсчёт статистики для чата 123456789
+2026-04-24 17:45:48.394 +03:00 [INF] Executing OkObjectResult, writing value of type 'ChatBot.Dtos.ChatStats'.
+2026-04-24 17:45:48.401 +03:00 [INF] Executed action ChatBot.Controllers.ChatTestController.GetStats (ChatBot) in 11.01ms
+2026-04-24 17:45:48.403 +03:00 [INF] Executed endpoint 'ChatBot.Controllers.ChatTestController.GetStats (ChatBot)'
+2026-04-24 17:45:48.405 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/chat/stats - 200 138 application/json; charset=utf-8 28.9263ms
+2026-04-24 17:47:19.644 +03:00 [INF] Application is shutting down...

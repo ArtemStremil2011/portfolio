@@ -29,7 +29,7 @@ namespace ChatBot.Commands
             if (parts.Length < 2 || string.IsNullOrWhiteSpace(parts[1]))
             {
                 await bot.SendTextMessageAsync(chatId,
-                    "📝 Использование: /system <текст системного сообщения>\n\n" +
+                    "Использование: /system <текст системного сообщения>\n\n" +
                     "Пример:\n" +
                     "/system Ты профессиональный переводчик. Отвечай только на русском языке.\n\n" +
                     "Системные сообщения задают поведение бота и сохраняются в истории.");
@@ -44,7 +44,7 @@ namespace ChatBot.Commands
                 Content = systemMessage
             });
 
-            await bot.SendTextMessageAsync(chatId, $"✅ Системное сообщение добавлено:\n\n{systemMessage}");
+            await bot.SendTextMessageAsync(chatId, $"Системное сообщение добавлено:\n\n{systemMessage}");
         }
     }
 }
